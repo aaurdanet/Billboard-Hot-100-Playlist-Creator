@@ -1,4 +1,4 @@
-##Billboard Hot 100 Playlist Creator
+    ##Billboard Hot 100 Playlist Creator
 
 This script lets you travel back in time through music. The created Spotify playlist contains the top songs from the Billboard Hot 100 chart for a specific date, allowing you to relive the iconic hits that defined that period. Let the power of music transport you through time and space as you listen to the timeless classics and chart-topping favorites of yesteryears.
 
